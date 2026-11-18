@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Local data
+data/state.json
+backup/
+restore/
+offline/
+
+# Env
+.env
+
+# Build artifacts
+dist/
+*.tar
+*.sha256
+
+# IDE
+.idea/
+.vscode/
